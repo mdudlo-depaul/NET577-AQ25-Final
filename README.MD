@@ -3,7 +3,7 @@
 ### Authentik Container Setup Commands
 #### Commands to be run on container-host:
 1. ```bash
-   git clone https://github.com/mdudlo-depaul/Net577-Final.git
+   git clone https://github.com/mdudlo-depaul/NET577-AQ25-Final.git
    ```
 2. ```bash
    cd Net577-Final
